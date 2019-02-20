@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  mvc:
+    view:
+      suffix: .jsp
+      prefix: /WEB-INF/
